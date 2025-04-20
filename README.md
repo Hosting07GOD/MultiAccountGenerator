@@ -58,4 +58,4 @@ https://user-images.githubusercontent.com/95581741/199072993-e7705478-e68d-4074-
 1. [ ] More Websites
 2. [x] Async
 
-<h6 align="center" style="color: #25DCF9">Can't You Give me even 1 star :(?</h6>
+<h6 align="center" style="color: #25DCF9">Can't You Give me even 1 star :(?</h6
